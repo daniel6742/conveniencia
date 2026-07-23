@@ -1,0 +1,16 @@
+body {
+  font-family: Arial;
+  padding: 20px;
+  background: #f4f4f4;
+}
+.mesa {
+  background: #fff;
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px 0;
+}
+textarea,
+input {
+  width: 100%;
+  margin: 4px 0;
+}
