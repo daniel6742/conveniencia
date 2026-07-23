@@ -1,16 +1,14 @@
-body {
-  font-family: Arial;
-  padding: 20px;
-  background: #f4f4f4;
-}
 .mesa {
-  background: #fff;
-  border: 1px solid #ccc;
+  border: 1px solid #999;
   padding: 10px;
-  margin: 10px 0;
+  margin: 10px;
 }
-textarea,
-input {
-  width: 100%;
-  margin: 4px 0;
+.livre {
+  background: #b7f7b7;
+}
+.ocupada {
+  background: #f7b7b7;
+}
+.pagamento {
+  background: #f7ef9b;
 }
